@@ -1,27 +1,27 @@
-# 🎤 EchoHire – Your AI-Powered Interview Assistant
+# 🎯 PrepWise – Your AI-Powered Interview Assistant
 
-EchoHire is a modern, voice-powered mock interview platform designed to help you level up your job interview skills with **realistic AI interactions**.
+**PrepWise** is a sleek, voice-powered mock interview platform built to supercharge your interview preparation through **realistic, conversational AI simulations**.
 
-Built with cutting-edge tools like **Next.js**, **Firebase**, and **Vapi AI**, EchoHire delivers a seamless, interactive experience that mimics real-world interviews — all from your browser.
+Whether you're gearing up for a tech interview, a behavioral round, or just want to improve your speaking confidence, PrepWise has your back — right in your browser.
 
 ---
 
 ## 🚀 Features
 
-✅ **Voice-Driven Mock Interviews**  
-Powered by [Vapi.ai](https://vapi.ai/), EchoHire simulates real conversations using advanced voice agents.
+✅ **AI-Driven Mock Interviews**  
+Simulate real-time conversations with intelligent voice agents powered by **Vapi AI**.
 
-✅ **Smart AI Interactions**  
-Integrated with **Google Gemini AI** for dynamic, responsive, and intelligent questioning.
+✅ **Integrated with Google Gemini AI**  
+Get dynamic, adaptive questions tailored to your responses using Google's latest AI models.
 
-✅ **Authentication & Storage**  
-Secure user login and performance tracking, backed by **Firebase Authentication** and **Firestore**.
+✅ **Secure Authentication**  
+User login and performance tracking secured by **Firebase Authentication** and **Firestore**.
 
-✅ **Sleek UI with TailwindCSS + shadcn/ui**  
-Modern design, beautiful transitions, and intuitive layout — made for ease and speed.
+✅ **Modern & Responsive UI**  
+Built with **Next.js**, styled using **Tailwind CSS**, and enhanced by **shadcn/ui** for a beautiful and intuitive experience.
 
-✅ **Realtime Feedback** *(coming soon)*  
-Personalized insights based on your answers, pacing, and interaction quality.
+✅ **Coming Soon**: Real-Time Feedback  
+Understand your pacing, tone, and clarity with smart feedback features currently under development.
 
 ---
 
@@ -29,27 +29,77 @@ Personalized insights based on your answers, pacing, and interaction quality.
 
 - **Frontend**: [Next.js](https://nextjs.org/)
 - **Voice AI**: [Vapi.ai](https://vapi.ai/)
-- **AI Intelligence**: [Google Gemini](https://deepmind.google/technologies/gemini/)
-- **Auth & DB**: [Firebase Authentication](https://firebase.google.com/products/auth), [Firestore](https://firebase.google.com/products/firestore)
-- **Styling & UI**: [Tailwind CSS](https://tailwindcss.com/), [shadcn/ui](https://ui.shadcn.com/)
+- **Intelligence**: [Google Gemini](https://deepmind.google/technologies/gemini/)
+- **Authentication & Database**: [Firebase](https://firebase.google.com/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/), [shadcn/ui](https://ui.shadcn.com/)
 
 ---
 
 ## 📸 Preview
 
-> _Insert a screenshot or GIF of the app in action here to show off the user interface and voice interaction flow._
+# 🎯 PrepWise – Your AI-Powered Interview Assistant
+
+**PrepWise** is a sleek, voice-powered mock interview platform built to supercharge your interview preparation through **realistic, conversational AI simulations**.
+
+Whether you're gearing up for a tech interview, a behavioral round, or just want to improve your speaking confidence, PrepWise has your back — right in your browser.
 
 ---
 
-## 🔧 Installation & Setup
+## 🚀 Features
+
+✅ **AI-Driven Mock Interviews**  
+Simulate real-time conversations with intelligent voice agents powered by **Vapi AI**.
+
+✅ **Integrated with Google Gemini AI**  
+Get dynamic, adaptive questions tailored to your responses using Google's latest AI models.
+
+✅ **Secure Authentication**  
+User login and performance tracking secured by **Firebase Authentication** and **Firestore**.
+
+✅ **Modern & Responsive UI**  
+Built with **Next.js**, styled using **Tailwind CSS**, and enhanced by **shadcn/ui** for a beautiful and intuitive experience.
+
+✅ **Coming Soon**: Real-Time Feedback  
+Understand your pacing, tone, and clarity with smart feedback features currently under development.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: [Next.js](https://nextjs.org/)
+- **Voice AI**: [Vapi.ai](https://vapi.ai/)
+- **Intelligence**: [Google Gemini](https://deepmind.google/technologies/gemini/)
+- **Authentication & Database**: [Firebase](https://firebase.google.com/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/), [shadcn/ui](https://ui.shadcn.com/)
+
+---
+
+## 📸 Preview
+![Uploading image.png…]()
+
+
+
+---
+
+## ⚙️ Getting Started
+
+Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/vipul7700/AI_Assistant_Mock_Interview.git
 cd AI_Assistant_Mock_Interview
-
-# Install dependencies
 npm install
-
-# Run development server
 npm run dev
 
+
+---
+
+## ⚙️ Getting Started
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/vipul7700/AI_Assistant_Mock_Interview.git
+cd AI_Assistant_Mock_Interview
+npm install
+npm run dev
