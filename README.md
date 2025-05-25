@@ -1,8 +1,8 @@
 # 🎯 PrepWise – Your AI-Powered Interview Assistant
 
-**PrepWise** is a sleek, voice-powered mock interview platform built to supercharge your interview preparation through **realistic, conversational AI simulations**.
+**PrepWise** is a sleek, voice-powered mock interview platform designed to supercharge your interview preparation through **realistic, conversational AI simulations**.
 
-Whether you're gearing up for a tech interview, a behavioral round, or just want to improve your speaking confidence, PrepWise has your back — right in your browser.
+Whether you're gearing up for a tech interview, a behavioral round, or just want to improve your speaking confidence — PrepWise has your back, right in your browser.
 
 ---
 
@@ -35,25 +35,9 @@ Understand your pacing, tone, and clarity with smart feedback features currently
 
 ---
 
-
 ## 📸 Preview
-[](./filename.ext)
 
-
-
-
----
-
-## ⚙️ Getting Started
-
-Clone the repository and install dependencies:
-
-```bash
-git clone https://github.com/vipul7700/AI_Assistant_Mock_Interview.git
-cd AI_Assistant_Mock_Interview
-npm install
-npm run dev
-
+![PrepWise Main Page](https://github.com/vipul7700/AI_Assistant_Mock_Interview/raw/main/Main_page.png)
 
 ---
 
