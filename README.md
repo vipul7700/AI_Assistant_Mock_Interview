@@ -28,17 +28,18 @@ Built with Next.js, styled using Tailwind CSS, and enhanced with shadcn/ui, deli
 
 Conduct immersive AI-driven interviews with live feedback indicators, conversational flow, and detailed transcripts.
 
-✅ Smart Dashboard
+✅ **Smart Dashboard**
 
 Manage, review, and track all your interviews from a clean, user-friendly dashboard interface.
 
-✅ Fully Responsive Design
+✅ **Fully Responsive Design**
 
 Optimized for mobile, tablet, and desktop, ensuring seamless usage across any device.
 
-✅ Clean Architecture & Reusable Components
+✅ **Clean Architecture & Reusable Components**
 
 Designed with modular architecture, reusable UI patterns, and maintainable code structure for scalability and easy feature expansion.
+
 ---
 
 ## 🛠️ Tech Stack
